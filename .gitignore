@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+admin/dist/
+admin/node_modules/
+admin/*.local
+
+# Logs
+*.log
+npm-debug.log*
